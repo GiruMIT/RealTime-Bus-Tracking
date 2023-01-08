@@ -15,7 +15,7 @@ const busStops = [
 ];
 
 // TODO: add your own access token
-mapboxgl.accessToken = 'pk.eyJ1IjoiZ2lydW0xIiwiYSI6ImNsYmxmb29xMzA3MW8zbm4yazdwZjBxazkifQ.PS_Wrt1cGqbKKkP3R34ZSw';
+mapboxgl.accessToken = 'pk.eyJ1IjoiZ2lydW0xIiwiYSI6ImNsYmxmaWVkYzA2b3ozem13MXRpcHdmM2kifQ.cUfsrlGjjfsB6ZaII40bDg';
 
 // This is the map instance
 let map = new mapboxgl.Map({
